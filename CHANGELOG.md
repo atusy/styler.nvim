@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/folke/styler.nvim/compare/v1.0.0...v1.0.1) (2023-06-17)
+
+
+### Bug Fixes
+
+* fixed buggy split behaviour ([#8](https://github.com/folke/styler.nvim/issues/8)) ([e9ef6f6](https://github.com/folke/styler.nvim/commit/e9ef6f6966eebe5b97b8dedceb53d7ca00df65f6))
+
 ## 1.0.0 (2023-01-04)
 
 
